@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\bin\Debug\Bank_Management_system.exe.config
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\bin\Debug\Bank_Management_system.exe
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\bin\Debug\Bank_Management_system.pdb
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.bp.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.login.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.MainMenu.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.ManageAgent.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.NewAccount.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.Settings.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.Transaction.resources
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.exe
+C:\Users\LENOVO\Desktop\Ganesh\projects\Bank_M_S\Bank_Management_system\Bank_Management_system\obj\Debug\Bank_Management_system.pdb
